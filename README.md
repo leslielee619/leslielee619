@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leslielee619
 - 👀 I’m interested in machinery, math, physics, computer
-- 🌱 I’m currently learning PyQt5(PyQT6)
+- 🌱 I’m currently learning PyQt5/PyQt6
 - 📫 My email: 1468269411@qq.com
 
 <!---
