@@ -4,7 +4,7 @@
 - 📫 My email: leslie_ld@126.com, 1468269411@qq.com
 - It has not been updated for a long time, mainly because: 1) accessing GitHub can be inconvenient in China; 2) I’ve been occupied with work commitments.
 - Do you like this? https://leslielee619.github.io/dynamic-photo-album/pc.html I made it many years ago.
-- My blog is leslielee.blog.csdn.net
+- My blog is https://leslielee.blog.csdn.net
 
 <!---
 leslielee619/leslielee619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
