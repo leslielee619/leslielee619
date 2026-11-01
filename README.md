@@ -4,7 +4,7 @@
 - 💼 After graduation, I worked on CT reconstruction algorithm R&D, covering radiographic inspection simulation, artifact reduction, geometric calibration and image restoration.
 - 📫 My email: leslie_ld@126.com   
 - ✨ Do you like this? https://leslielee619.github.io/dynamic-photo-album/pc.html, I made it many years ago.  
-- 📝 My blog is https://leslielee.blog.csdn.net
+- 📝 My technical blog is https://leslielee.blog.csdn.net
 
 <!---
 leslielee619/leslielee619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
