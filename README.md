@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @leslielee619, The number 619 is from WWE.
-- 👀 I’m interested in computed tomography, and I like math, physics, computer.
-- 🌱 ~~During my academic years, I studied various mechanics courses and once developed a rotor dynamics software which based on finite element method, Krylov subspace method and Qt framework.~~
-- 📫 My email: leslie_ld@126.com, 1468269411@qq.com
-- It has not been updated for a long time, mainly because: 1) accessing GitHub can be inconvenient in China; 2) I’ve been occupied with work commitments.
-- Do you like this? https://leslielee619.github.io/dynamic-photo-album/pc.html I made it many years ago.
-- My blog is https://leslielee.blog.csdn.net
+- 👋 Hi, I’m LiDong from China.
+- 👀 I’m interested in computed tomography, and I like math, physics, computer science.
+- 🚀 During my postgraduate studies, I independently developed a rotor dynamics simulation software using rotor dynamics theory, finite element method, and Krylov subspace method.
+- 💼 After graduation, I worked on CT reconstruction algorithm R&D, covering radiographic inspection simulation, artifact reduction, geometric calibration and image restoration.
+- 📫 My email: leslie_ld@126.com (main), 1468269411@qq.com
+- ✨ Do you like this? https://leslielee619.github.io/dynamic-photo-album/pc.html, I made it many years ago.  
+- 📝 My blog is https://leslielee.blog.csdn.net
 
 <!---
 leslielee619/leslielee619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
