@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LiDong from China.
-- 👀 I’m interested in computed tomography, and I like math, physics, computer science.
+- 👀 I’m interested in computed tomography, and I like applied math, physics, computer science.
 - 🚀 During my postgraduate studies, I independently developed a rotor dynamics simulation software using rotor dynamics theory, finite element method, and Krylov subspace method.
 - 💼 After graduation, I worked on CT reconstruction algorithm R&D, covering radiographic inspection simulation, artifact reduction, geometric calibration and image restoration.
 - 📫 My email: leslie_ld@126.com   
